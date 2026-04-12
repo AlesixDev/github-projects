@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "AlesixDev-HyRestart",
+    "name": "HyRestart",
+    "description": "Automatic restarts for Hytale servers with Discord integration.",
+    "github_url": "https://github.com/AlesixDev/HyRestart",
+    "tags": [
+      "hytale",
+      "java"
+    ]
+  }
+]
