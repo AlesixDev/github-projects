@@ -8,5 +8,20 @@
       "hytale",
       "economy"
     ]
+  },
+  {
+    "id": "Zen-kun04-PingExfiltration",
+    "name": "PingExfiltration",
+    "description": "Exfiltrate information from a server to another through ICMP (ping) requests.",
+    "github_url": "https://github.com/Zen-kun04/PingExfiltration",
+    "demo_url": "https://www.youtube.com/watch?v=20Z7nV1SRZ0",
+    "tags": [
+      "hacking",
+      "cybersecurity",
+      "icmp",
+      "packets",
+      "exfiltration",
+      "post exploitation"
+    ]
   }
 ]
