@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "Zen-kun04-HyEconomy",
+    "name": "HyEconomy",
+    "description": "The first Economy System for Hytale servers is here for free! Using EcoAPI.",
+    "github_url": "https://github.com/Zen-kun04/HyEconomy",
+    "tags": [
+      "hytale",
+      "economy"
+    ]
+  }
+]
