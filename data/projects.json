@@ -23,5 +23,16 @@
       "exfiltration",
       "post exploitation"
     ]
+  },
+  {
+    "id": "Sapphire-Development-sapphire-heads",
+    "name": "SapphireHeads",
+    "description": "Browse and discover thousands of Minecraft heads. Search by name, tag, or category to find the perfect decoration for your world.",
+    "github_url": "https://github.com/Sapphire-Development/sapphire-heads",
+    "demo_url": "https://heads.sapphi.dev/",
+    "tags": [
+      "minecraft",
+      "heads"
+    ]
   }
 ]
