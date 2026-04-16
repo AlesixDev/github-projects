@@ -34,5 +34,15 @@
       "minecraft",
       "heads"
     ]
+  },
+  {
+    "id": "AlesixDev-HyRestart",
+    "name": "HyRestart",
+    "description": "An automatic restart system for Hytale servers, with a webhooks system included.",
+    "github_url": "https://github.com/AlesixDev/HyRestart",
+    "tags": [
+      "hytale",
+      "java"
+    ]
   }
 ]
