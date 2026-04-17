@@ -44,5 +44,15 @@
       "hytale",
       "java"
     ]
+  },
+  {
+    "id": "nay-cat-vAnalyzer",
+    "name": "vAnalyzer",
+    "description": "A Vencord plugin that bundles multiple security and reputation analyzers into Discord, letting you inspect links, invites, files, and profiles",
+    "github_url": "https://github.com/nay-cat/vAnalyzer",
+    "tags": [
+      "typescript",
+      "vencord"
+    ]
   }
 ]
