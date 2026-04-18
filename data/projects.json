@@ -54,5 +54,18 @@
       "typescript",
       "vencord"
     ]
+  },
+  {
+    "id": "Reactor-Hytale-Reactor",
+    "name": "Hytale is bad designed",
+    "description": "A book about why Hytale has a poor architecture and questionable decisions. In Spanish and English. Book: https://drive.google.com/drive/u/2/folders/1lQ0WfjvvEmYHkqg6k6SCa8gtP4kTRC43",
+    "github_url": "https://github.com/Reactor-Hytale/Reactor",
+    "tags": [
+      "book",
+      "java",
+      "hytale",
+      "spanish",
+      "english"
+    ]
   }
 ]
