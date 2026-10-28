@@ -11,7 +11,7 @@
   "dependencies": {
     "@upstash/ratelimit": "^2.0.8",
     "@upstash/redis": "^1.38.4",
-    "motion": "^13.1.0",
+    "motion": "^14.6.0",
     "next": "16.4.1",
     "react": "19.3.0",
     "react-dom": "19.2.8"
